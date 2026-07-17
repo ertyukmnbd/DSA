@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ertyukmnbd/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ertyukmnbd/DSA/tree/master/0066-plus-one) |
+| [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ertyukmnbd/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
