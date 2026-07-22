@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ertyukmnbd/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/ertyukmnbd/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ertyukmnbd/DSA/tree/master/0069-sqrtx) |
+| [0633-sum-of-square-numbers](https://github.com/ertyukmnbd/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ertyukmnbd/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ertyukmnbd/DSA/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/ertyukmnbd/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/ertyukmnbd/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ertyukmnbd/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/ertyukmnbd/DSA/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
