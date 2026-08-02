@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ertyukmnbd/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ertyukmnbd/DSA/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/ertyukmnbd/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/ertyukmnbd/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ertyukmnbd/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ertyukmnbd/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ertyukmnbd/DSA/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/ertyukmnbd/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ertyukmnbd/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ertyukmnbd/DSA/tree/master/1089-duplicate-zeros) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ertyukmnbd/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/ertyukmnbd/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
 ## String
 |  |
