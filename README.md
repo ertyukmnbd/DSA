@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ertyukmnbd/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/ertyukmnbd/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
+| [3783-mirror-distance-of-an-integer](https://github.com/ertyukmnbd/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
