@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/ertyukmnbd/DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0185-department-top-three-salaries](https://github.com/ertyukmnbd/DSA/tree/master/0185-department-top-three-salaries) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ertyukmnbd/DSA/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0627-swap-sex-of-employees](https://github.com/ertyukmnbd/DSA/tree/master/0627-swap-sex-of-employees) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ertyukmnbd/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/ertyukmnbd/DSA/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
