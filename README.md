@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ertyukmnbd/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/ertyukmnbd/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
