@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/ertyukmnbd/DSA/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/ertyukmnbd/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ertyukmnbd/DSA/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ertyukmnbd/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ertyukmnbd/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
@@ -134,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/ertyukmnbd/DSA/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ertyukmnbd/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
