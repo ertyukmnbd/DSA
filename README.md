@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/ertyukmnbd/DSA/tree/master/1084-sales-analysis-iii) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ertyukmnbd/DSA/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/ertyukmnbd/DSA/tree/master/1341-movie-rating) |
+| [1527-patients-with-a-condition](https://github.com/ertyukmnbd/DSA/tree/master/1527-patients-with-a-condition) |
 | [1907-count-salary-categories](https://github.com/ertyukmnbd/DSA/tree/master/1907-count-salary-categories) |
 ## Number Theory
 |  |
