@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/ertyukmnbd/DSA/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/ertyukmnbd/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/ertyukmnbd/DSA/tree/master/2413-smallest-even-multiple) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ertyukmnbd/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ertyukmnbd/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ertyukmnbd/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ertyukmnbd/DSA/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/ertyukmnbd/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prime Factorization
 |  |
 | ------- |
