@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ertyukmnbd/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ertyukmnbd/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ertyukmnbd/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ertyukmnbd/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/ertyukmnbd/DSA/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ertyukmnbd/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ertyukmnbd/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Prime Factorization
 |  |
