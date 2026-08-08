@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ertyukmnbd/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ertyukmnbd/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ertyukmnbd/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ertyukmnbd/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ertyukmnbd/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ertyukmnbd/DSA/tree/master/0283-move-zeroes) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ertyukmnbd/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ertyukmnbd/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ertyukmnbd/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
