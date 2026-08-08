@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ertyukmnbd/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ertyukmnbd/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ertyukmnbd/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ertyukmnbd/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ertyukmnbd/DSA/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/ertyukmnbd/DSA/tree/master/0877-stone-game) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ertyukmnbd/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/ertyukmnbd/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ertyukmnbd/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -125,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/ertyukmnbd/DSA/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ertyukmnbd/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -171,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ertyukmnbd/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ertyukmnbd/DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ertyukmnbd/DSA/tree/master/0342-power-of-four) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
