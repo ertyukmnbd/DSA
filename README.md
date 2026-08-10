@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ertyukmnbd/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ertyukmnbd/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/ertyukmnbd/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ertyukmnbd/DSA/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/ertyukmnbd/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/ertyukmnbd/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0977-squares-of-a-sorted-array) |
