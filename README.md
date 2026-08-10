@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ertyukmnbd/DSA/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ertyukmnbd/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/ertyukmnbd/DSA/tree/master/0504-base-7) |
 ## Heap (Priority Queue)
 |  |
@@ -133,11 +134,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ertyukmnbd/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/ertyukmnbd/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ertyukmnbd/DSA/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/ertyukmnbd/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ertyukmnbd/DSA/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/ertyukmnbd/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
