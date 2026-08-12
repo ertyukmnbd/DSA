@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ertyukmnbd/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ertyukmnbd/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/ertyukmnbd/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ertyukmnbd/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ertyukmnbd/DSA/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/ertyukmnbd/DSA/tree/master/0877-stone-game) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ertyukmnbd/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ertyukmnbd/DSA/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ertyukmnbd/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/ertyukmnbd/DSA/tree/master/3731-find-missing-elements) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/ertyukmnbd/DSA/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/ertyukmnbd/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ertyukmnbd/DSA/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/ertyukmnbd/DSA/tree/master/3731-find-missing-elements) |
