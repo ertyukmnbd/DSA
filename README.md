@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/ertyukmnbd/DSA/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ertyukmnbd/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0434-number-of-segments-in-a-string](https://github.com/ertyukmnbd/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/ertyukmnbd/DSA/tree/master/0504-base-7) |
 ## Heap (Priority Queue)
 |  |
