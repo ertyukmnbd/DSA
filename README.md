@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ertyukmnbd/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ertyukmnbd/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ertyukmnbd/DSA/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/ertyukmnbd/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/ertyukmnbd/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ertyukmnbd/DSA/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/ertyukmnbd/DSA/tree/master/0877-stone-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ertyukmnbd/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ertyukmnbd/DSA/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/ertyukmnbd/DSA/tree/master/0274-h-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ertyukmnbd/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/ertyukmnbd/DSA/tree/master/3731-find-missing-elements) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ertyukmnbd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ertyukmnbd/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
