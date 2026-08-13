@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ertyukmnbd/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ertyukmnbd/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ertyukmnbd/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2540-minimum-common-value](https://github.com/ertyukmnbd/DSA/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ertyukmnbd/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ertyukmnbd/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/ertyukmnbd/DSA/tree/master/3731-find-missing-elements) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ertyukmnbd/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ertyukmnbd/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/ertyukmnbd/DSA/tree/master/1089-duplicate-zeros) |
+| [2540-minimum-common-value](https://github.com/ertyukmnbd/DSA/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ertyukmnbd/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ertyukmnbd/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/ertyukmnbd/DSA/tree/master/0633-sum-of-square-numbers) |
+| [2540-minimum-common-value](https://github.com/ertyukmnbd/DSA/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ertyukmnbd/DSA/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/ertyukmnbd/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ertyukmnbd/DSA/tree/master/0904-fruit-into-baskets) |
+| [2540-minimum-common-value](https://github.com/ertyukmnbd/DSA/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ertyukmnbd/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/ertyukmnbd/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
